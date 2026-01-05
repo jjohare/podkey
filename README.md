@@ -9,6 +9,8 @@
 
 **Podkey** is a beautiful, secure browser extension for **did:nostr** and **Solid** authentication. It provides a NIP-07-compatible Nostr wallet that enables seamless authentication to Solid pods using [did:nostr](https://nostrcg.github.io/did-nostr/) identities, while remaining fully compatible with the broader Nostr ecosystem.
 
+<img width="416" height="597" alt="image" src="https://github.com/user-attachments/assets/2a918267-4375-4874-844f-5020231e3e86" />
+
 ## ✨ What Makes Podkey Different
 
 ### Better than nos2x
